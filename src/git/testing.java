@@ -8,7 +8,8 @@ public class testing {
 		
 		// feature
 		System.out.println("Hello world");
-		asfdgfdgfdhg
+		//asfdgfdgfdhg
+		System.out.println("Hello world");
 	}
 
 }
