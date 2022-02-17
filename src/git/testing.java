@@ -6,8 +6,9 @@ public class testing {
 		System.out.println("Hello world");
 		System.out.println("water is blue");
 		
-		//
-		System.out.println("Hello world);
+		// feature
+		System.out.println("Hello world");
+		asfdgfdgfdhg
 	}
 
 }
